@@ -1,0 +1,19 @@
+body{
+    background-color:rgba(125, 152, 155, 0.9);
+}
+
+#contenant{
+    display:flex;
+    flex-direction:row;
+    
+}
+
+#un, img{
+    background-color: red;
+    width:200px;
+}
+
+#deux{
+    background-color:green;
+    width:400px;
+}
